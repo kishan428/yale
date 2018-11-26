@@ -1,6 +1,6 @@
-class hello
+class hello-kishan
 {
-           dev1
+           dev1-dev2
           }
 {           #new line
 }          #EOF
